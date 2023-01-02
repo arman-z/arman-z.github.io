@@ -1,0 +1,28 @@
+body {
+	background-color: #ffffff;
+	color: #000000;
+}
+
+a:Link {
+	color: #0000ff;
+	text-decoration: none;
+	background-color: transparent;
+}
+
+a:Visited {
+	color: #660099;
+	text-decoration: none;
+	background-color: transparent;
+}
+
+a:Hover {
+	color: #660099;
+	text-decoration: underline;
+	background-color: transparent;
+}
+
+a:Active {
+	color: #ff0000;
+	background-color: transparent;
+}
+
