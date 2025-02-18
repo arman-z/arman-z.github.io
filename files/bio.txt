@@ -1,0 +1,13 @@
+BIOGRAPHY
+
+Arman Zharmagambetov is a Research Scientist in the Fundamental AI Research (FAIR) team at Meta. 
+His research primarily focuses on machine learning and optimization, recently exploring their 
+application in enhancing the security and robustness of AI models. His areas of interest include 
+adversarial attacks and defenses, prompt injections, and the privacy risks associated with AI systems. 
+Prior to this, he did his postdoc with Yuandong Tian at FAIR, focusing on AI-guided design and 
+optimization. Arman obtained his Ph.D. from the University of California, Merced in 2022 where he 
+primarily worked on learning algorithms for decision trees and tree-based models, with applications 
+in domains like (semi-)supervised learning, neural net compression, dimensionality reduction, and 
+model interpretability. Arman is a recipient of various awards, including the UCM Chancellor’s 
+Graduate Fellowship and Outstanding Teaching Award. His contributions have been featured in esteemed 
+venues, including NeurIPS, ICML, CVPR, EMNLP, ICASSP, and more.
